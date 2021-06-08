@@ -40,5 +40,4 @@ const showError = () => {
   waitText.style.color = "red";
   result.textContent = "";
   waitText.style.animationDuration = "0s";
-
 }
