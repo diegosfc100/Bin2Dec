@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <a href="diegosfc100.github.io/bin2dec/">🔗 Bin2Dec</a>
+    <a href="https://diegosfc100.github.io/Bin2Dec/">🔗 Bin2Dec</a>
 </h1>
 
 <p align="center">🚀 Conversor de Binário para Decimal </p>
@@ -27,9 +27,9 @@ O usuário visualiza os resultados em um único campo de saída contendo o equiv
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML5](https://expo.io/)
-- [CSS3](https://nodejs.org/en/)
-- [Javascript](https://pt-br.reactjs.org/)
+- [HTML5](https://www.w3schools.com/html/default.asp)
+- [CSS3](https://www.w3schools.com/css/default.asp)
+- [Javascript](https://www.w3schools.com/js/default.asp)
 
 
 ### Autor
